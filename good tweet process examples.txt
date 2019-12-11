@@ -1,0 +1,8 @@
+this one has sentiment analysis
+
+https://github.com/melissakly/Trump-Twitter-and-Text
+
+
+this one has some basic analysis
+
+https://github.com/nprapps/trump-tweet-analysis
