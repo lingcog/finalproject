@@ -1,4 +1,4 @@
-# finalproject
+# trump-tweet-stock-market
 Repository for the final project for course Harvard CS109A: Introduction to Data Science.
 
 The project website: https://sites.google.com/view/trumpandmarket-cs109a
